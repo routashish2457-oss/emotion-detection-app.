@@ -1,0 +1,8 @@
+*.xlsx
+*.pdf
+*.csv
+*.ini
+__pycache__/
+venv/
+GitHub/
+react.js 2/
